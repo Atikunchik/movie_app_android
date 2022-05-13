@@ -9,10 +9,10 @@ App for shortly description about movies
 4. Well designed architecture MVP or MVVM
 
 # Technology:
-ViewModel
-LiveData
-Hilt (for dependency injection)
-Retrofit
-Room
-Navigation
-YouTube player
+ViewModel <br />
+LiveData <br />
+Hilt (for dependency injection) <br />
+Retrofit <br />
+Room <br />
+Navigation <br />
+YouTube player <br />
